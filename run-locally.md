@@ -21,7 +21,7 @@ python3 -m venv venv
 On Windows cmd:
 
 ```
-$ py -3 -m venv venv
+py -3 -m venv venv
 ```
 
 ##Activate the virtual environment. 
